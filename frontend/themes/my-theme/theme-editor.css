@@ -1,0 +1,11 @@
+/*
+ * This file has been created by the Vaadin Theme Editor. Please note that
+ * manual changes to individual CSS properties may be overwritten by the theme editor.
+ */
+vaadin-button.save-button {
+  background-color:rgba(215,235,252,0.57);
+  border-color:rgba(155,184,224,1);
+  border-style:solid;
+  border-width:1px;
+  padding-inline:var(--lumo-space-m);
+}
